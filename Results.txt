@@ -1,0 +1,10 @@
+6_Rahimzadeh_137covid_patient24_SR_4_IM00019.png: COVID 
+6_Rahimzadeh_normal2_patient263_SR_4_IM00012.png: NONCOVID
+cap032_55.png: COVID 
+cap006_8.png: NONCOVID
+137covid_patient1_SR_2_IM00012.png: COVID 
+137covid_patient2_SR_2_IM00017.png: COVID 
+137covid_patient18_SR_2_IM00030.png: COVID 
+6_Rahimzadeh_normal1_patient146_SR_4_IM00012.png: NONCOVID
+6_Rahimzadeh_normal1_patient148_SR_4_IM00022.png: NONCOVID
+6_Rahimzadeh_normal1_patient146_SR_4_IM00022.png: NONCOVID
