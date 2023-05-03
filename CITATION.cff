@@ -1,0 +1,8 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Anderson
+    given-names: John
+title: sw1ssyy/COVID-CNN-MODEL: Release 1.1
+version: v1.1
+date-released: 2023-05-03
